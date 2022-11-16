@@ -1,0 +1,146 @@
+{
+    "aluno": [
+        {
+            "id": 1,
+            "matricula": 123,
+            "nome": "Julia",
+            "idade": 10,
+            "serie": "5° ano",
+            "turma": 1501
+        },
+        {
+            "id": 2,
+            "matricula": 456,
+            "nome": "Gabriel",
+            "idade": 9,
+            "serie": "4° ano",
+            "turma": 1402
+        },
+        {
+            "id": 3,
+            "matricula": 789,
+            "nome": "Sofia",
+            "idade": 8,
+            "serie": "3° ano",
+            "turma": 1301
+        },
+        {
+            "id": 4,
+            "matricula": 911,
+            "nome": "Enzo Gabriel",
+            "idade": 7,
+            "serie": "2° ano",
+            "turma": 1204
+        },
+        {
+            "id": 5,
+            "matricula": 121,
+            "nome": "Maria Eduarda",
+            "idade": 13,
+            "serie": "7° ano",
+            "turma": 1703
+        },
+        {
+            "id": 6,
+            "matricula": 131,
+            "nome": "João Lucas",
+            "idade": 15,
+            "serie": "1° ano do ensino médio",
+            "turma": "EM01"
+        }
+    ],
+    "professor": [
+        {
+            "id": 7,
+            "disciplina": "História",
+            "nome": "José",
+            "turno_aulas": "Manhã e tarde",
+            "registro": 79093436040
+        },
+        {
+            "id": 8,
+            "disciplina": "Matemática",
+            "nome": "André",
+            "turno_aulas": "Manhã e tarde",
+            "registro": 88298560450
+        },
+        {
+            "id": 9,
+            "disciplina": "Educação infantil",
+            "nome": "Cristiane",
+            "turno_aulas": "Manhã e tarde",
+            "registro": 52051052085
+        },
+        {
+            "id": 10,
+            "disciplina": "Inglês",
+            "nome": "Carolina",
+            "turno_aulas": "Tarde",
+            "registro": 14974859080
+        },
+        {
+            "id": 11,
+            "disciplina": "Biologia",
+            "nome": "Amanda",
+            "turno_aulas": "Tarde",
+            "registro": 10187389080
+        },
+        {
+            "id": 12,
+            "disciplina": "Física",
+            "nome": "Wilson",
+            "turno_aulas": "Manhã",
+            "registro": 65871780490
+        }
+    ],
+    "turma": [
+        {
+            "id": 13,
+            "turno": "Manhã",
+            "sala": 1,
+            "andar": 1,
+            "quant_alunos": 15,
+            "num_turma": 1204
+        },
+        {
+            "id": 14,
+            "turno": "Manhã",
+            "sala": 2,
+            "andar": 1,
+            "quant_alunos": 15,
+            "num_turma": 1301
+        },
+        {
+            "id": 15,
+            "turno": "Manhã",
+            "sala": 3,
+            "andar": 1,
+            "quant_alunos": 20,
+            "num_turma": 1402
+        },
+        {
+            "id": 16,
+            "turno": "Tarde",
+            "sala": 4,
+            "andar": 2,
+            "quant_alunos": 20,
+            "num_turma": 1501
+        },
+        {
+            "id": 17,
+            "turno": "Tarde",
+            "sala": 5,
+            "andar": 2,
+            "quant_alunos": 25,
+            "num_turma": 1703
+        },
+        {
+            "id": 18,
+            "turno": "Tarde",
+            "sala": 6,
+            "andar": 3,
+            "quant_alunos": 30,
+            "num_turma": "EM01"
+        }
+    ]
+}
